@@ -1,1 +1,8 @@
+## Screenshots
+
+### Command Line Git Transactions
+![Command Line Git Screenshot](screenshots/command_line_git.png)
+
+### Staged Commit in VS Code
+![VS Code Screenshot](screenshots/staged_commit.png)
 
