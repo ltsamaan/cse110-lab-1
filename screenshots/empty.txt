@@ -4,5 +4,5 @@
 ![Command Line Git Screenshot](screenshots/command_line_git.png)
 
 ### Staged Commit in VS Code
-![VS Code Screenshot](Screen Shot 2025-04-08 at 3.54.25 PM.png)
+![VS Code Screenshot](2025-04-08 at 3.54.25 PM.png)
 
